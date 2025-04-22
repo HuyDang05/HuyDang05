@@ -7,8 +7,6 @@ Fullstack Engineer
 * 🌍  I'm based in Vietnam
 * ✉️  You can contact me at [quanghuy23052005@gmail.com](mailto:quanghuy23052005@gmail.com)
 
-<a href="https://www.github.com/HuyDang05" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/HuyDang05?logo=github&style=for-the-badge&color=10b981&labelColor=1c1917" /></a>
 
 ### Skills
 
