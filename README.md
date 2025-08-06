@@ -1,11 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Đặng Quang Huy
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Đặng Quang Huy
 ======================================================================================================================================
 
 Fullstack Engineer
 ------------------
 
-* 🌍  I'm based in Vietnam
-* ✉️  You can contact me at [quanghuy23052005@gmail.com](mailto:quanghuy23052005@gmail.com)
+I am currently a university student majoring in Japanese-oriented information technology, with a passion for web programming and cloud services
+
+-   🌍  I'm based in Vietnam
+-   ✉️  You can contact me at <quanghuy23052005@gmail.com>
+-   🧠  I'm learning Cloud Service as AWS,...
+-   ⚡  I have a great enthusiasm for sports, particularly gym workouts and football.
 
 
 ### Skills
@@ -32,5 +36,3 @@ Fullstack Engineer
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HuyDang05&bg_color=1c1917&color=ffffff&line=10b981&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
 </a>
 
-
-<a href="https://github.com/HuyDang05" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyDang05&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
