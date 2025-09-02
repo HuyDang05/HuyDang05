@@ -8,7 +8,7 @@ I am currently a university student majoring in Japanese-oriented information te
 
 -   🌍  I'm based in Vietnam
 -   ✉️  You can contact me at <quanghuy23052005@gmail.com>
--   🧠  I'm learning Cloud Service as AWS,...
+-   🧠  I'm learning Web Development and Cloud Service as AWS,...
 -   ⚡  I have a great enthusiasm for sports, particularly gym workouts and football.
 
 
